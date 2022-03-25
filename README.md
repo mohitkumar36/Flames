@@ -1,5 +1,5 @@
 # Flames
-Flames is a python based GUI program to find out FLAMES.
+Flames is a python based GUI program to find out FLAMES. \
 ![Screenshot (44)](https://user-images.githubusercontent.com/57846872/160092265-f4d23a22-06a1-4369-ba5f-9adc8c006189.png)
 
 Flames is a game in which:
